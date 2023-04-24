@@ -1,0 +1,1475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-113.9558, 51.0919] },
+      "properties": {
+        "Project Name": "Templemont",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "120",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,840,000",
+        "Latitude": 51.0919,
+        "Longitude": -113.9558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0528, 51.0928] },
+      "properties": {
+        "Project Name": "Centre 4800",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "79",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,773,207",
+        "Latitude": 51.0928,
+        "Longitude": -114.0528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0219, 51.0378] },
+      "properties": {
+        "Project Name": "YW Calgary Hub Facility",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "100",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$4,742,981",
+        "Latitude": 51.0378,
+        "Longitude": -114.0219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0835, 51.0491] },
+      "properties": {
+        "Project Name": "Downtown 5 Avenue Site",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "74",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$5,000,000",
+        "Latitude": 51.0491,
+        "Longitude": -114.0835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0871, 51.0671] },
+      "properties": {
+        "Project Name": "Beltline 2",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "51",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$847,500",
+        "Latitude": 51.0671,
+        "Longitude": -114.0871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1043, 51.0436] },
+      "properties": {
+        "Project Name": "Sunalta Renovation",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "33",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$295,000",
+        "Latitude": 51.0436,
+        "Longitude": -114.1043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-113.5552, 53.5646] },
+      "properties": {
+        "Project Name": "Brentwood - Matheson Seniors Building",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "409",
+        "Location": "Edmonton, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,000,000",
+        "Latitude": 53.5646,
+        "Longitude": -113.5552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.7133, 49.9083] },
+      "properties": {
+        "Project Name": "Nakusp Affordable Housing Project",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "10",
+        "Location": "Nakusp, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$841,061",
+        "Latitude": 49.9083,
+        "Longitude": -117.7133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-121.5895, 51.092] },
+      "properties": {
+        "Project Name": "300 Smith Ave",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "20",
+        "Location": "Clinton, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$721,056",
+        "Latitude": 51.092,
+        "Longitude": -121.5895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.1405, 50.0005] },
+      "properties": {
+        "Project Name": "1330 Cloudburst Drive",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "45",
+        "Location": "Whistler, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$393,968",
+        "Latitude": 50.0005,
+        "Longitude": -123.1405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-119.3094, 50.2552] },
+      "properties": {
+        "Project Name": "VNHS 27th Avenue Project",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "38",
+        "Location": "Vernon, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,273,000",
+        "Latitude": 50.2552,
+        "Longitude": -119.3094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-119.4906, 49.8898] },
+      "properties": {
+        "Project Name": "555 Fuller Avenue Project",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "68",
+        "Location": "Kelowna, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,481,000",
+        "Latitude": 49.8898,
+        "Longitude": -119.4906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.0072, 49.2298] },
+      "properties": {
+        "Project Name": "Kathleen",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "295",
+        "Location": "Burnaby, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,671,200",
+        "Latitude": 49.2298,
+        "Longitude": -123.0072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.0495, 49.2575] },
+      "properties": {
+        "Project Name": "Kaslo Gardens Housing Co-operative",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "85",
+        "Location": "Vancouver, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$700,000",
+        "Latitude": 49.2575,
+        "Longitude": -123.0495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.0897, 49.2821] },
+      "properties": {
+        "Project Name": "Women & Families Centre",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "63",
+        "Location": "Vancouver, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$11,375,000",
+        "Latitude": 49.2821,
+        "Longitude": -123.0897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.1258, 49.275] },
+      "properties": {
+        "Project Name": "Covenant House Vancouver Capital Expansion (Phase 1)",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "28",
+        "Location": "Vancouver, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$5,089,232",
+        "Latitude": 49.275,
+        "Longitude": -123.1258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-123.1541, 49.7017] },
+      "properties": {
+        "Project Name": "Squamish Seniors",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "232",
+        "Location": "Squamish, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,600,000",
+        "Latitude": 49.7017,
+        "Longitude": -123.1541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-125.2465, 50.0233] },
+      "properties": {
+        "Project Name": "Linda's Place",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "27",
+        "Location": "Campbell River, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$830,000",
+        "Latitude": 50.0233,
+        "Longitude": -125.2465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-99.4677, 50.2285] },
+      "properties": {
+        "Project Name": "Kinsmen Kourts II",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "48",
+        "Location": "Neepawa, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$265,029",
+        "Latitude": 50.2285,
+        "Longitude": -99.4677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-98.1678, 49.9835] },
+      "properties": {
+        "Project Name": "Dufferin Villa",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "53",
+        "Location": "Portage la Prairie, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,442,484",
+        "Latitude": 49.9835,
+        "Longitude": -98.1678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.1094, 49.9074] },
+      "properties": {
+        "Project Name": "Riverwood House",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "40",
+        "Location": "Winnipeg, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,523,764",
+        "Latitude": 49.9074,
+        "Longitude": -97.1094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.1355, 49.9027] },
+      "properties": {
+        "Project Name": "Main Street Project Emergency Shelter Re-Development & Expansion",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "120",
+        "Location": "Winnipeg, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,000,000",
+        "Latitude": 49.9027,
+        "Longitude": -97.1355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.1383, 49.9035] },
+      "properties": {
+        "Project Name": "MAKE ROOM Transitional Shelter Expansion",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "41",
+        "Location": "Winnipeg, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,200,000",
+        "Latitude": 49.9035,
+        "Longitude": -97.1383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.1511, 49.8866] },
+      "properties": {
+        "Project Name": "West Broadway Commons",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "110",
+        "Location": "Winnipeg, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$7,865,338",
+        "Latitude": 49.8866,
+        "Longitude": -97.1511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-99.9382, 49.8462] },
+      "properties": {
+        "Project Name": "Common Space",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "30",
+        "Location": "Brandon, Manitoba",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$880,000",
+        "Latitude": 49.8462,
+        "Longitude": -99.9382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-64.7894, 46.0859] },
+      "properties": {
+        "Project Name": "MacDonald Centre for Ind. Living",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "40",
+        "Location": "Moncton, New Brunswick",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,383,419",
+        "Latitude": 46.0859,
+        "Longitude": -64.7894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-66.0516, 45.2731] },
+      "properties": {
+        "Project Name": "USJ Victoria Commons",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "14",
+        "Location": "Saint John, New Brunswick",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$91,251",
+        "Latitude": 45.2731,
+        "Longitude": -66.0516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-67.2883, 45.1933] },
+      "properties": {
+        "Project Name": "Second Stage Housing Facility",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "6",
+        "Location": "St. Stephen, New Brunswick",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$138,000",
+        "Latitude": 45.1933,
+        "Longitude": -67.2883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-65.8382, 45.5367] },
+      "properties": {
+        "Project Name": "Demille Place",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "21",
+        "Location": "Hampton, New Brunswick",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$183,916",
+        "Latitude": 45.5367,
+        "Longitude": -65.8382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-64.7222, 47.7443] },
+      "properties": {
+        "Project Name": "LES LOGEMENTS DU MANOIR EBP INC",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "12",
+        "Location": "Paquetville, New Brunswick",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$50,210",
+        "Latitude": 47.7443,
+        "Longitude": -64.7222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.7124, 47.5574] },
+      "properties": {
+        "Project Name": "The Salvation Army Centre of Hope",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "20",
+        "Location": "St. John's, Newfoundland and Labrador",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,150,066",
+        "Latitude": 47.5574,
+        "Longitude": -52.7124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-60.1923, 46.1349] },
+      "properties": {
+        "Project Name": "A Plan to End Homelessness in CBRM",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "20",
+        "Location": "Cape Breton, Nova Scotia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$463,209",
+        "Latitude": 46.1349,
+        "Longitude": -60.1923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-63.6177, 44.6557] },
+      "properties": {
+        "Project Name": "New Bryony House Shelter",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "24",
+        "Location": "Halifax, Nova Scotia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,223,398",
+        "Latitude": 44.6557,
+        "Longitude": -63.6177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-75.6358, 45.4447] },
+      "properties": {
+        "Project Name": "Shepherds of Good Hope Foundation Montreal Road Supportive Housing Build",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "42",
+        "Location": "Ottawa, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$764,670",
+        "Latitude": 45.4447,
+        "Longitude": -75.6358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-75.6361, 45.4503] },
+      "properties": {
+        "Project Name": "Veterans' House: The Andy Carswell Building",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "40",
+        "Location": "Ottawa, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$4,800,000",
+        "Latitude": 45.4503,
+        "Longitude": -75.6361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-75.7143, 45.4039] },
+      "properties": {
+        "Project Name": "OCHC 2019-2022 Portfolio Development",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "698",
+        "Location": "Ottawa, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$10,819,000",
+        "Latitude": 45.4039,
+        "Longitude": -75.7143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.3074, 44.3217] },
+      "properties": {
+        "Project Name": "Habitat for Humanity Canada",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "416",
+        "Location": "Peterborough, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$36,689,764",
+        "Latitude": 44.3217,
+        "Longitude": -78.3074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.3202, 44.3091] },
+      "properties": {
+        "Project Name": "Brock Street Mission Redevelopment",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "45",
+        "Location": "Peterborough, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,000,000",
+        "Latitude": 44.3091,
+        "Longitude": -78.3202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.8556, 43.8804] },
+      "properties": {
+        "Project Name": "440 Bloor Street East",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "21",
+        "Location": "Oshawa, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$351,272",
+        "Latitude": 43.8804,
+        "Longitude": -78.8556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.2439, 43.1609] },
+      "properties": {
+        "Project Name": "Oakdale Commons",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "24",
+        "Location": "St. Catharines, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,022,000",
+        "Latitude": 43.1609,
+        "Longitude": -79.2439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.4113, 44.6061] },
+      "properties": {
+        "Project Name": "Building Hope",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "60",
+        "Location": "Orillia, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$5,693,000",
+        "Latitude": 44.6061,
+        "Longitude": -79.4113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.4498, 43.8019] },
+      "properties": {
+        "Project Name": "Lou Fruitman Reena Residence",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "79",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,684,269",
+        "Latitude": 43.8019,
+        "Longitude": -79.4498
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.6979, 44.391] },
+      "properties": {
+        "Project Name": "Allanview Place",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "11",
+        "Location": "Barrie, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$100,736",
+        "Latitude": 44.391,
+        "Longitude": -79.6979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.6844, 44.3619] },
+      "properties": {
+        "Project Name": "Allanview Place",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "11",
+        "Location": "Barrie, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$705,279",
+        "Latitude": 44.3619,
+        "Longitude": -79.6844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.6456, 43.5882] },
+      "properties": {
+        "Project Name": "Region of Peel Housing Master Plan",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "2,180",
+        "Location": "Mississauga, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$89,474,127",
+        "Latitude": 43.5882,
+        "Longitude": -79.6456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.7761, 43.768] },
+      "properties": {
+        "Project Name": "BBCFR 6-storey Affordable Housing Building",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "90",
+        "Location": "Brampton, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$750,000",
+        "Latitude": 43.768,
+        "Longitude": -79.7761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.8187, 43.2425] },
+      "properties": {
+        "Project Name": "YWCA Hamilton Ottawa Street Redevelopment",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "50",
+        "Location": "Hamilton, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,700,000",
+        "Latitude": 43.2425,
+        "Longitude": -79.8187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.863, 43.2706] },
+      "properties": {
+        "Project Name": "500 James Affordable Housing",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "45",
+        "Location": "Hamilton, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,281,034",
+        "Latitude": 43.2706,
+        "Longitude": -79.863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.8635, 43.2733] },
+      "properties": {
+        "Project Name": "Ken Soble Tower Transformation",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "146",
+        "Location": "Hamilton, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$6,000,000",
+        "Latitude": 43.2733,
+        "Longitude": -79.8635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.8841, 43.5056] },
+      "properties": {
+        "Project Name": "154 Bronte St",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "24",
+        "Location": "Milton, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$367,320",
+        "Latitude": 43.5056,
+        "Longitude": -79.8841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.4593, 43.7511] },
+      "properties": {
+        "Project Name": "HER Build",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "30",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$4,961,250",
+        "Latitude": 43.7511,
+        "Longitude": -79.4593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.4998, 43.7236] },
+      "properties": {
+        "Project Name": "Reside",
+        "Project Type": "Renewals",
+        "Status": "Built",
+        "Number of Units": "8",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$285,412",
+        "Latitude": 43.7236,
+        "Longitude": -79.4998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.3354, 43.6693] },
+      "properties": {
+        "Project Name": "Woodgreen Community Housing Inc.",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "35",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,900,867",
+        "Latitude": 43.6693,
+        "Longitude": -79.3354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.3873, 43.6715] },
+      "properties": {
+        "Project Name": "Toronto Community Housing Corporation",
+        "Project Type": "Repairs",
+        "Status": "Under Construction",
+        "Number of Units": "58,861",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$527,511,843",
+        "Latitude": 43.6715,
+        "Longitude": -79.3873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.3722, 43.6582] },
+      "properties": {
+        "Project Name": "Egale Centre",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "31",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$4,317,000",
+        "Latitude": 43.6582,
+        "Longitude": -79.3722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.3621, 43.6485] },
+      "properties": {
+        "Project Name": "Restoration & protection of the building cladding system, balcony structures and underground garage",
+        "Project Type": "Repairs",
+        "Status": "Under Construction",
+        "Number of Units": "78",
+        "Location": "Toronto, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$56,101",
+        "Latitude": 43.6485,
+        "Longitude": -79.3621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.4684, 43.6929] },
+      "properties": {
+        "Project Name": "Elevator Modernization",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "248",
+        "Location": "York, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$232,560",
+        "Latitude": 43.6929,
+        "Longitude": -79.4684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.273, 43.5525] },
+      "properties": {
+        "Project Name": "Silver Maple Seniors Community",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "115",
+        "Location": "Guelph, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,320,395",
+        "Latitude": 43.5525,
+        "Longitude": -80.273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.4949, 43.4512] },
+      "properties": {
+        "Project Name": "Water Street House",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "9",
+        "Location": "Waterloo, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$576,000",
+        "Latitude": 43.4512,
+        "Longitude": -80.4949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.7442, 43.1445] },
+      "properties": {
+        "Project Name": "Blossom Park",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "34",
+        "Location": "Woodstock, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,907,000",
+        "Latitude": 43.1445,
+        "Longitude": -80.7442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.1776, 43.0085] },
+      "properties": {
+        "Project Name": "Youth Opportunities Unlimited Emergency Shelter for Youth",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "30",
+        "Location": "London, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,961,155",
+        "Latitude": 43.0085,
+        "Longitude": -81.1776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.1884, 42.9769] },
+      "properties": {
+        "Project Name": "Residenza Ortona",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "60",
+        "Location": "London, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$682,000",
+        "Latitude": 42.9769,
+        "Longitude": -81.1884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.2174, 42.9928] },
+      "properties": {
+        "Project Name": "Nightingale Place",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "41",
+        "Location": "London, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$405,950",
+        "Latitude": 42.9928,
+        "Longitude": -81.2174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.1999, 42.9586] },
+      "properties": {
+        "Project Name": "LMCH Recapitalization",
+        "Project Type": "Repairs",
+        "Status": "Financial Commitment",
+        "Number of Units": "2,082",
+        "Location": "London, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$15,533,989",
+        "Latitude": 42.9586,
+        "Longitude": -81.1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.2637, 43.0113] },
+      "properties": {
+        "Project Name": "Young Adults Affordable Housing Project 340 Richmond Street",
+        "Project Type": "Repairs",
+        "Status": "Built",
+        "Number of Units": "6",
+        "Location": "London, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$559,463",
+        "Latitude": 43.0113,
+        "Longitude": -81.2637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-81.259, 42.957] },
+      "properties": {
+        "Project Name": "191 Commissioners Rd W.",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "65",
+        "Location": "London, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$795,835",
+        "Latitude": 42.957,
+        "Longitude": -81.259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.6705, 47.5406] },
+      "properties": {
+        "Project Name": "Temiskaming Shores Seniors Housing Corporation",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "68",
+        "Location": "Temiskaming Shores, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$861,688",
+        "Latitude": 47.5406,
+        "Longitude": -79.6705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-93.8254, 51.018] },
+      "properties": {
+        "Project Name": "New Starts for Women 2nd Stage",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "10",
+        "Location": "Red Lake, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$846,388",
+        "Latitude": 51.018,
+        "Longitude": -93.8254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.9291, 46.3647] },
+      "properties": {
+        "Project Name": "West Nipissing Housing Development",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "14",
+        "Location": "West Nipissing / Nipissing Ouest, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$100,000",
+        "Latitude": 46.3647,
+        "Longitude": -79.9291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.9085, 46.486] },
+      "properties": {
+        "Project Name": "Sudbury Wade Hampton House Expansion for People with Acquired Brain Injuries",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "12",
+        "Location": "Sudbury, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,125,636",
+        "Latitude": 46.486,
+        "Longitude": -80.9085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.1951, 48.4503] },
+      "properties": {
+        "Project Name": "The Salvation Army Journey to Life Centre",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "66",
+        "Location": "Thunder Bay, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,010,949",
+        "Latitude": 48.4503,
+        "Longitude": -89.1951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-62.6467, 46.1637] },
+      "properties": {
+        "Project Name": "Montague Place Apartment Complex",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "45",
+        "Location": "Montague, Prince Edward Island",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$329,837",
+        "Latitude": 46.1637,
+        "Longitude": -62.6467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-63.0824, 46.2167] },
+      "properties": {
+        "Project Name": "Stratford Place Apartment Complex",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "61",
+        "Location": "Stratford, Prince Edward Island",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$382,382",
+        "Latitude": 46.2167,
+        "Longitude": -63.0824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-63.098, 46.2599] },
+      "properties": {
+        "Project Name": "Martha's Place Affordable Housing",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "60",
+        "Location": "Charlottetown, Prince Edward Island",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$905,730",
+        "Latitude": 46.2599,
+        "Longitude": -63.098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-72.7069, 46.6093] },
+      "properties": {
+        "Project Name": "J'ai mon appart'",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "12",
+        "Location": "Shawinigan, Quebec",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$850,000",
+        "Latitude": 46.6093,
+        "Longitude": -72.7069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-75.068, 46.496] },
+      "properties": {
+        "Project Name": "Appartements du Quartier Rivière-Rouge",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "38",
+        "Location": "Rivière-Rouge, Quebec",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,808,983",
+        "Latitude": 46.496,
+        "Longitude": -75.068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-106.6961, 52.12] },
+      "properties": {
+        "Project Name": "CUMFI Elders Residence",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "26",
+        "Location": "Saskatoon, Saskatchewan",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$683,845",
+        "Latitude": 52.12,
+        "Longitude": -106.6961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-128.6362, 66.2561] },
+      "properties": {
+        "Project Name": "The Kádúy??le Affordable Rental Housing Project",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "6",
+        "Location": "Fort Good Hope, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,083,744",
+        "Latitude": 66.2561,
+        "Longitude": -128.6362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-125.4614, 64.9155] },
+      "properties": {
+        "Project Name": "Hamlet of Tulita Housing Initiative",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "8",
+        "Location": "Tulita, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$4,890,810",
+        "Latitude": 64.9155,
+        "Longitude": -125.4614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.644, 61.3517] },
+      "properties": {
+        "Project Name": "Homes Fort Providence",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "18",
+        "Location": "Fort Providence, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$4,795,598",
+        "Latitude": 61.3517,
+        "Longitude": -117.644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-110.7417, 62.4043] },
+      "properties": {
+        "Project Name": "Lk Expansion",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "5",
+        "Location": "Lutselk'e, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$1,945,665",
+        "Latitude": 62.4043,
+        "Longitude": -110.7417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.382, 62.4487] },
+      "properties": {
+        "Project Name": "AVENS Pavilion",
+        "Project Type": "New Construction",
+        "Status": "Under Construction",
+        "Number of Units": "102",
+        "Location": "Yellowknife, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$31,753,794",
+        "Latitude": 62.4487,
+        "Longitude": -114.382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.3702, 62.4455] },
+      "properties": {
+        "Project Name": "YKDFN Submission",
+        "Project Type": "New Construction",
+        "Status": "Built",
+        "Number of Units": "19",
+        "Location": "Detah, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$18,855,021",
+        "Latitude": 62.4455,
+        "Longitude": -114.3702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-68.4446, 63.7276] },
+      "properties": {
+        "Project Name": "Uquutaq Transitional Housing",
+        "Project Type": "Renewals",
+        "Status": "Built",
+        "Number of Units": "71",
+        "Location": "Iqaluit, Nunavut",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$2,095,000",
+        "Latitude": 63.7276,
+        "Longitude": -68.4446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-86.266316, 48.628559] },
+      "properties": {
+        "Project Name": "33 Court Street",
+        "Project Type": "New construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "42",
+        "Location": "Heron Bay, Ontario",
+        "Program Name": "Federal Land Initiative",
+        "Federal Contribution (in dollars)": "$740,699",
+        "Latitude": 48.628559,
+        "Longitude": -86.266316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.554638, 45.55358] },
+      "properties": {
+        "Project Name": "Coin du Nord (Montréal-Nord)",
+        "Project Type": "New construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "38",
+        "Location": "Montréal, Quebec",
+        "Program Name": "Federal Land Initiative",
+        "Federal Contribution (in dollars)": "$844,512",
+        "Latitude": 45.55358,
+        "Longitude": -73.554638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-73.572047, 45.503563] },
+      "properties": {
+        "Project Name": "3185 Bedford",
+        "Project Type": "New construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "25",
+        "Location": "Montréal, Quebec",
+        "Program Name": "Federal Land Initiative",
+        "Federal Contribution (in dollars)": "$1,479,072",
+        "Latitude": 45.503563,
+        "Longitude": -73.572047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-80.992298, 46.489666] },
+      "properties": {
+        "Project Name": "Place 1310 Sparks Place",
+        "Project Type": "New construction",
+        "Status": "Under Construction",
+        "Number of Units": "14",
+        "Location": "Sudbury, Ontario",
+        "Program Name": "Federal Land Initiative",
+        "Federal Contribution (in dollars)": "$566,400",
+        "Latitude": 46.489666,
+        "Longitude": -80.992298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-75.696704, 45.418996] },
+      "properties": {
+        "Project Name": "715 Mikinak Road",
+        "Project Type": "New construction",
+        "Status": "Built",
+        "Number of Units": "271",
+        "Location": "Ottawa, Ontario",
+        "Program Name": "Federal Land Initiative",
+        "Federal Contribution (in dollars)": "$4,633,965",
+        "Latitude": 45.418996,
+        "Longitude": -75.696704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.5765, 53.9333] },
+      "properties": {
+        "Project Name": "Horizon South - Affordable Rental Homes in Currie",
+        "Project Type": "New construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "72",
+        "Location": "Alberta",
+        "Program Name": "Federal Land Initiative",
+        "Federal Contribution (in dollars)": "$3,509,420",
+        "Latitude": 53.9333,
+        "Longitude": -116.5765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-135.053, 60.71558] },
+      "properties": {
+        "Project Name": "4051 4th avenue",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "55",
+        "Location": "Whitehorse, Yukon",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$10,000,000",
+        "Latitude": 60.71558,
+        "Longitude": -135.053
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-79.3742, 44.9196] },
+      "properties": {
+        "Project Name": "Alexander Muskoka (The Alexander Retirement Care Facility)",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "95",
+        "Location": "Gravenhurst, Ontario",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$23,170,478",
+        "Latitude": 44.9196,
+        "Longitude": -79.3742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.784, 49.28565] },
+      "properties": {
+        "Project Name": "Ozada Pinetree Court Family Housing Project",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "164",
+        "Location": "Coquitlam, British Columbia",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$46,167,519",
+        "Latitude": 49.28565,
+        "Longitude": -122.784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-115.774, 60.8172] },
+      "properties": {
+        "Project Name": "FSC Shelter Renewal Project",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "10",
+        "Location": "Hay River, Northwest Territories",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$3,161,894",
+        "Latitude": 60.8172,
+        "Longitude": -115.774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-104.6189, 50.4452] },
+      "properties": {
+        "Project Name": "Trombley Street Apartments",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "116",
+        "Location": "Regina, Saskatchewan",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$30,775,562",
+        "Latitude": 50.4452,
+        "Longitude": -104.6189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-113.217, 53.70411] },
+      "properties": {
+        "Project Name": "83 Unit Heartland Housing Project",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "83",
+        "Location": "Fort Saskatchewan, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$6,463,427",
+        "Latitude": 53.70411,
+        "Longitude": -113.217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0719, 51.0447] },
+      "properties": {
+        "Project Name": "Silvera for Seniors - Glamorgan Affordable Housing Project for Seniors",
+        "Project Type": "New Construction",
+        "Status": "Financial Commitment",
+        "Number of Units": "200",
+        "Location": "Calgary, Alberta",
+        "Program Name": "National Housing Co-Investment Fund",
+        "Federal Contribution (in dollars)": "$15,204,041",
+        "Latitude": 51.0447,
+        "Longitude": -114.0719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-75.696704, 45.418996] },
+      "properties": {
+        "Project Name": "PT Delivered Projects",
+        "Project Type": "All",
+        "Status": "Various",
+        "Number of Units": "371,849",
+        "Location": "National",
+        "Program Name": "FPT Housing Partnership Framework",
+        "Federal Contribution (in dollars)": "$1,515,939,624",
+        "Latitude": 45.418996,
+        "Longitude": -75.696704
+      }
+    }
+  ]
+}

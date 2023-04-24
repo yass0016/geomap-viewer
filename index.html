@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" href="css/leaflet/leaflet.css" />
+
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <h1>NHS Funded Projects Map</h1>
+    <div id="map"></div>
+
+    <!-- <script src="js/leaflet/leaflet.js"></script>
+    <script src="js/proj4/proj4.js"></script>
+    <script src="js/proj4leaflet/proj4leaflet.js"></script>
+
+    <script src="js/script.js"></script> -->
+
+    <script src="dist/bundle.js"></script>
+
+    <script>
+      initGeomapViewer("map", {
+        language: "fr",
+        map: {
+          zoom: 3,
+          center: [50, -100],
+          projection: 3857,
+          basemap: {
+            id: "osm",
+            shaded: false,
+            labeled: true,
+          },
+        },
+        layers: [
+          {
+            type: "geojson",
+            config: {
+              url: "sample/nhs/nhs-projects.json",
+              customMarkerIcon: {
+                point: "sample/nhs/house.png",
+              },
+            },
+          },
+        ],
+      });
+    </script>
+  </body>
+</html>
